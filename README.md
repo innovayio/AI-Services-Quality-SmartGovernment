@@ -1,4 +1,4 @@
-# AI4SmartGovernment
+# AI for e-Services Quality Enhancement - Smart Government
 #### In a pursuit to enhance the quality of the governmental services to citizens, monitoring and analyzing citizens and community feedback is key to understand pitfalls and areas of enhancements. Over past years, manual efforts to monitor such feedback proved very sounding results in discovering anomalies, rumors, violation incidents and complaints among many other issues from public domains like social media. To support the national digital transformation toward smart government, automating the process of monitoring, analysis and response is key to achieve much better quality and unleash services those can’t be made manually. 
 
 <p></p>
