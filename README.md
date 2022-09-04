@@ -1,4 +1,15 @@
 # AI4SmartGovernment
+#### In a pursuit to enhance the quality of the governmental services to citizens, monitoring and analyzing citizens and community feedback is key to understand pitfalls and areas of enhancements. Over past years, manual efforts to monitor such feedback proved very sounding results in discovering anomalies, rumors, violation incidents and complaints among many other issues from public domains like social media. To support the national digital transformation toward smart government, automating the process of monitoring, analysis and response is key to achieve much better quality and unleash services those can’t be made manually. 
+
+<p></p>
+
+#### Leveraging AI for real-time capturing, analysis and cognation of citizens and community feedback can enable intelligent automation based on text mining and NLP techniques. The objective is to collect such feedback from all potential sources like official reviews, social media, citizen complains among others across all government services. Then conduct deep analysis using AI methods and graph models to discover issues in timely fashion real-time or near-real-time. The focus is given to Arabic language and Egyptian dialect to cope with the localization requirements. The expected value is to identify and bridge potential gaps between citizens & community and government for mutual benefits driving by quality services.
+
+<p></p>
+
+#### Who can benifit of such solution: Citizens – Gov Services Owners – Gov Sectors – Gov Executives 
+
+<p></p>
 
 #### 01 - Statement of Work: The SoW provides clear definition of the problem being solved and the associated challenges and pain points coming from the business domain context. It provided the scope and specifications of the solution being delivered.
 #### 02 - Project Management: Planning, executing, and controlling the project in terms of scope, budged, time, quality, resources, and team assignment. Running project delivery in Lean Agile approach for lower risk and incremental delivered value.
